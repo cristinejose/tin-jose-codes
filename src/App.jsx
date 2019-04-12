@@ -10,6 +10,9 @@ import Form from './components/form.jsx';
 
 class App extends Component {
   render() {
+ 
+    console.log('sample coomit');
+
     return (
       <div className = 'my-app'>
       <Header/>
