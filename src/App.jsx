@@ -13,6 +13,7 @@ class App extends Component {
  
     console.log('sample coomit from git sample folder');
 
+    console.log('trial');
     return (
       <div className = 'my-app'>
       <Header/>
