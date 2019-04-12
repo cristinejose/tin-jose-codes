@@ -1,0 +1,74 @@
+
+#form {
+    color: black;
+    background-color:#f2f2f2; 
+    margin:15px;
+ }
+
+.form_div{
+    padding:20px;
+    width:50%;
+    border:solid;
+    background-color:#d9d9d9;
+    border: .5px solid #ccc;
+}
+
+.name{
+    font-weight: bold;
+    font-size:18px;
+}
+
+.input_name[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size:18px;
+  }
+
+  .input_age[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size:18px;
+  }
+  
+  .age{
+      font-weight: bold;
+      font-size:18px;
+  }
+
+  .gender{
+    font-weight: bold;
+    font-size:18px;
+}
+
+.input_gender{
+    font-weight: bold;
+}
+
+.submit{
+    width:200px;
+    padding:10px;
+    font-size:20px;
+    text-align:center;
+    background-color:#999999;
+    color:white;
+    border-radius: 4px;
+    border: none;
+    display: block;
+    margin: 0 auto;
+}
+
+.result{
+    padding:7px;
+    background-color:#f2f2f2;
+    position: absolute; 
+    top: 100px; 
+    right: 10px; 
+    text-align: right; 
+    text-align:justify;
+    margin-right:250px;
+    font-size:20px;
+}
