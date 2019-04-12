@@ -11,7 +11,7 @@ import Form from './components/form.jsx';
 class App extends Component {
   render() {
  
-    console.log('sample coomit');
+    console.log('sample coomit from git sample folder');
 
     return (
       <div className = 'my-app'>
